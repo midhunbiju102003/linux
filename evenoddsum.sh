@@ -16,3 +16,7 @@ done
 echo "Sum of even numbers is: $sum_even"
 echo "Sum of odd numbers is: $sum_odd"
 
+#Enter a set of numbers separated by spaces:
+#1 2 3 4 5 6 7 
+#Sum of even numbers is: 12
+#Sum of odd numbers is: 16
