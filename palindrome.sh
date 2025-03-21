@@ -8,3 +8,10 @@ echo "It is a palindrome"
 else
 echo "It is not Palindrome"
 fi
+#Enter the string
+#malayalam
+#It is a palindrome
+
+#Enter the string
+#java
+#It is not Palindrome
